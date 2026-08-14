@@ -1,0 +1,4 @@
+interface:
+  display_name: "人格创作系统"
+  short_description: "构建并调用可复用的人格资产，稳定生成有角色感的内容"
+  default_prompt: "使用 $persona-creator，基于指定人格帮我完成这项内容创作任务。"
